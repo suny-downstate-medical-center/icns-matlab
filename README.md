@@ -12,7 +12,8 @@ README.md;
 example_plot.png
 
 # Usage
-## Download 3 scripts from repository: LoadInitialConditions1.m; PN_model.m; plot_results.m; 
+## Download 3 scripts from repository: 
+    LoadInitialConditions1.m, PN_model.m, plot_results.m 
 
 ## From MATLAB command line, enter [y0,t] = LoadInitialConditions
     Outputs: y0 = vector of voltages at time t0; t = t0
