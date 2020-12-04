@@ -2,7 +2,7 @@
 Version 0.1
 
 # Description
-Principle Neuron model adopted to run in MATLAB, with graphical output of voltage v. time. 
+Principle Neuron model adapted to run in MATLAB, with graphical output of voltage v. time. 
 
 # Contents
 LoadInitialConditions1.m
