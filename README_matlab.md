@@ -13,10 +13,10 @@ example_plot.png
 
 # Usage
 1. Download 3 scripts from repository: LoadInitialConditions1.m; PN_model.m; plot_results.m; 
-2. From MATLAB command line, type [y0,t] = LoadInitialConditions1 <>
-    Outputs: y0 = vector of voltages at time t0; t = t0
+2. From MATLAB command line, type [y0,t] = LoadInitialConditions1 //
+    Outputs: y0 = vector of voltages at time t0; t = t0 //
 3. From command line, type dydt = PN_model(t, y0)
-    Inputs: y0 = vector of initial voltages; t0 = initial time <>
+    Inputs: y0 = vector of initial voltages; t0 = initial time 
     Outputs: dydt: vector length y0 <>
     Functionality: Runs ODE
 4. From command line, type plot_results
