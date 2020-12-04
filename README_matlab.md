@@ -12,7 +12,10 @@ README_matlab.md
 example_plot.png
 
 # Usage
-1. Download 3 scripts from repository: LoadInitialConditions1.m, PN_model.mplot_results.m
+1. Download 3 scripts from repository: 
+    LoadInitialConditions1.m
+    PN_model.m 
+    plot_results.m
 2. From MATLAB command line, type [y0,t] = LoadInitialConditions1
     Outputs:
       y0 = vector of voltages at time t0
@@ -26,4 +29,4 @@ example_plot.png
     Functionality: 
       Runs ODE
 4. From command line, type plot_results
-    Functionality: generates plot of voltage (mV) v time (s)
+    Functionality: generates plot of voltage (mV) v time (s) (example_plot.png)
