@@ -41,7 +41,7 @@ ylabel('Voltage (mV)')
 hold off;
 
 % save figure not in local folder so as to not overwrite example)
-saveas(H, 'example_plot_matlab', 'png')
+saveas(H, 'test_plot_matlab', 'png')
 
 
 
