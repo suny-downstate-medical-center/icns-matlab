@@ -33,14 +33,15 @@ y1 = abs(y0);
 %=====================
 
 plot(tspan, y(:,1),'LineWidth',0.5);
-H = gca;
+H = gcf;
 hold on;
-legend('V')
+%legend('V')
 xlabel('Time (s)')
 ylabel('Voltage (mV)')
 hold off;
 
-
+% save figure not in local folder so as to not overwrite example)
+saveas(H, 'example_plot_matlab', 'png')
 
 
 
