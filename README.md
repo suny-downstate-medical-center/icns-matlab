@@ -8,7 +8,7 @@ LoadInitialConditions1.m
 PN_model.m
 plot_results.m
 README.md
-example_plot.png 
+example_plot_matlab.png 
 
 # Usage
 ## Clone repository 
