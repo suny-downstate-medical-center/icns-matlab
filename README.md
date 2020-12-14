@@ -24,4 +24,4 @@ example_plot.png
     Functionality: Runs ODEs
     
 ## From command line, enter plot_results
-    Functionality: generates and saves plot of voltage (mV) v time (s) as example_plot_matlab.png
+    Functionality: generates and saves plot of voltage (mV) v time (s) as test_plot_matlab.png
