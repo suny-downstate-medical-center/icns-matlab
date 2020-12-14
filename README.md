@@ -14,7 +14,7 @@ example_plot.png
 ## Clone scripts from repository: 
     LoadInitialConditions1.m, PN_model.m, plot_results.m 
 
-## From MATLAB command line, enter [y0,t] = LoadInitialConditions
+## From MATLAB command line, enter [y0,t] = LoadInitialConditions1
     Outputs: y0 = vector of voltages at time t0; t = t0
 
 ## From command line, enter dydt = PN_model(t, y0)
