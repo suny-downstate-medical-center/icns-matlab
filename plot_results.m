@@ -31,13 +31,11 @@ y1 = abs(y0);
 
 %Plotting Results
 %=====================
-
-plot(tspan, y(:,1),'LineWidth',0.5);
 H = gcf;
 hold on;
-%legend('V')
+plot(tspan, y(:,1),'LineWidth',0.8, 'Color', [0 0 1]);
 xlabel('Time (s)')
-ylabel('Voltage (mV)')
+ylabel('Membrane Voltage (mV)')
 hold off;
 
 % save figure not in local folder so as to not overwrite example)
