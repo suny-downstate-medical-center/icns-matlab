@@ -1,5 +1,4 @@
-# Intrinsic Cardiac Nervous System - Principal Neuron model - MATLAB
-Version 0.1
+# Intrinsic Cardiac Nervous System-Right Atrial Ganglionic Plexus- Principal Neuron model - MATLAB
 
 # Description
 Principle Neuron model adapted to run in MATLAB, with graphical output of voltage v. time. 
